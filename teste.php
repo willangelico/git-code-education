@@ -1,4 +1,5 @@
 <?Php phpinfo();?>
-<?="teste";?>
 
+
+la!
 
