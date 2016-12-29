@@ -1,1 +1,4 @@
-<?="teste";?>	
+<?Php phpinfo();?>
+<?="teste";?>
+
+
